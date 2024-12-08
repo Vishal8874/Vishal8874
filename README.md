@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal8874&label=Profile%20views&color=0e75b6&style=flat" alt="vishal8874" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vishal8874" alt="Vishal8874" /></a> </p>
+
 - 📫 How to reach me **vishalchaurasiya8786@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GoY2rt6UEZImUOFo5Acp4nT30NGuzRe9/view?usp=sharing](https://drive.google.com/file/d/1GoY2rt6UEZImUOFo5Acp4nT30NGuzRe9/view?usp=sharing)
